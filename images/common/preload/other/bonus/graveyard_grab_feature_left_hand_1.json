@@ -1,0 +1,66 @@
+{"frames": {
+
+"graveyard_grab_feature_left_hand_00014.png":
+{
+	"frame": {"x":0,"y":0,"w":970,"h":447},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":110,"w":970,"h":447},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"graveyard_grab_feature_left_hand_00015.png":
+{
+	"frame": {"x":970,"y":0,"w":970,"h":468},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":89,"w":970,"h":468},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"graveyard_grab_feature_left_hand_00016.png":
+{
+	"frame": {"x":0,"y":468,"w":971,"h":501},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":70,"w":971,"h":501},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"graveyard_grab_feature_left_hand_00017.png":
+{
+	"frame": {"x":971,"y":468,"w":968,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":48,"w":968,"h":523},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"graveyard_grab_feature_left_hand_00018.png":
+{
+	"frame": {"x":0,"y":991,"w":973,"h":537},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":34,"w":973,"h":537},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"graveyard_grab_feature_left_hand_00019.png":
+{
+	"frame": {"x":973,"y":991,"w":968,"h":557},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":14,"w":968,"h":557},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "graveyard_grab_feature_left_hand-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1941,"h":1548},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:460096a1e8f152d034944fdd3c4fa66a:6225a75b6327f64708a3a34c081cfc34:24fbb9fdb8caa653c12a5873307a51f6$"
+}
+}

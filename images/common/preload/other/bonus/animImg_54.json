@@ -1,0 +1,21 @@
+{"frames": {
+
+"freegame_neptune_00055.png":
+{
+	"frame": {"x":0,"y":0,"w":1017,"h":613},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1017,"h":613},
+	"sourceSize": {"w":1017,"h":613},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "animImg_54.png",
+	"format": "RGBA8888",
+	"size": {"w":1017,"h":613},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7581c4b2795d095076f823de12a74597:c1547fa0adcf140ba5ef1fdd70a8e9a5:e2104db75c29b1822fc820bd2f99b268$"
+}
+}

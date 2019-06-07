@@ -1,0 +1,30 @@
+{"frames": {
+
+"graveyard_grab_feature_left_hand_00056.png":
+{
+	"frame": {"x":0,"y":0,"w":932,"h":544},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":12,"w":932,"h":544},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"graveyard_grab_feature_left_hand_00057.png":
+{
+	"frame": {"x":932,"y":0,"w":75,"h":5},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":224,"y":480,"w":75,"h":5},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "graveyard_grab_feature_left_hand-8.png",
+	"format": "RGBA8888",
+	"size": {"w":1007,"h":544},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:460096a1e8f152d034944fdd3c4fa66a:6225a75b6327f64708a3a34c081cfc34:24fbb9fdb8caa653c12a5873307a51f6$"
+}
+}

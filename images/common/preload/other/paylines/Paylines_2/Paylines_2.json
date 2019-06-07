@@ -1,0 +1,102 @@
+{"frames": {
+
+"2_00001.png":
+{
+	"frame": {"x":5,"y":5,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2_00002.png":
+{
+	"frame": {"x":11,"y":5,"w":230,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":230,"h":24},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2_00003.png":
+{
+	"frame": {"x":246,"y":5,"w":458,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":458,"h":35},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2_00004.png":
+{
+	"frame": {"x":5,"y":45,"w":688,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":688,"h":46},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2_00005.png":
+{
+	"frame": {"x":5,"y":96,"w":917,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":917,"h":49},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2_00006.png":
+{
+	"frame": {"x":5,"y":150,"w":922,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":14,"w":922,"h":44},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2_00007.png":
+{
+	"frame": {"x":5,"y":199,"w":695,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":345,"y":17,"w":695,"h":41},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2_00008.png":
+{
+	"frame": {"x":5,"y":245,"w":466,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":574,"y":17,"w":466,"h":36},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2_00009.png":
+{
+	"frame": {"x":476,"y":245,"w":235,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":805,"y":23,"w":235,"h":21},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2_00010.png":
+{
+	"frame": {"x":716,"y":245,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1040,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Paylines_2.png",
+	"format": "RGBA8888",
+	"size": {"w":932,"h":286},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:055860527bec10408c8d3c889bcccc91:08304712b3baf728b5de93a1c1557a34:07fc82e243e7baa0840bdd9ba758b7c8$"
+}
+}

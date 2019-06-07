@@ -1,0 +1,62 @@
+
+basegame_freegame_idle_waves.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_background_cloud_1
+  rotate: false
+  xy: 765, 308
+  size: 309, 280
+  orig: 309, 280
+  offset: 0, 0
+  index: -1
+basegame_background_cloud_2
+  rotate: false
+  xy: 2, 53
+  size: 659, 385
+  orig: 659, 385
+  offset: 0, 0
+  index: -1
+basegame_background_cloud_3
+  rotate: false
+  xy: 765, 590
+  size: 762, 425
+  orig: 762, 425
+  offset: 0, 0
+  index: -1
+basegame_background_cloud_5
+  rotate: true
+  xy: 1529, 444
+  size: 571, 369
+  orig: 571, 369
+  offset: 0, 0
+  index: -1
+basegame_background_mountain_right
+  rotate: true
+  xy: 1900, 850
+  size: 165, 129
+  orig: 165, 129
+  offset: 0, 0
+  index: -1
+basegame_background_sea_water_2
+  rotate: false
+  xy: 2, 440
+  size: 761, 575
+  orig: 761, 575
+  offset: 0, 0
+  index: -1
+basegame_background_stone_left
+  rotate: false
+  xy: 2, 2
+  size: 134, 49
+  orig: 134, 49
+  offset: 0, 0
+  index: -1
+basegame_background_stone_right
+  rotate: false
+  xy: 663, 417
+  size: 83, 21
+  orig: 83, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,282 @@
+{"frames": {
+
+"hv3_wraith_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":220,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":42,"w":220,"h":188},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00001.png":
+{
+	"frame": {"x":220,"y":0,"w":223,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":41,"w":223,"h":189},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00002.png":
+{
+	"frame": {"x":443,"y":0,"w":223,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":41,"w":223,"h":190},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00003.png":
+{
+	"frame": {"x":666,"y":0,"w":223,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":40,"w":223,"h":191},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00004.png":
+{
+	"frame": {"x":889,"y":0,"w":225,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":41,"w":225,"h":190},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00005.png":
+{
+	"frame": {"x":1114,"y":0,"w":225,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":40,"w":225,"h":191},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00006.png":
+{
+	"frame": {"x":0,"y":191,"w":226,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":31,"w":226,"h":200},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00007.png":
+{
+	"frame": {"x":226,"y":191,"w":232,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":34,"w":232,"h":201},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00008.png":
+{
+	"frame": {"x":458,"y":191,"w":230,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":33,"w":230,"h":204},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00009.png":
+{
+	"frame": {"x":688,"y":191,"w":230,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":33,"w":230,"h":206},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00010.png":
+{
+	"frame": {"x":918,"y":191,"w":234,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":33,"w":234,"h":203},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00011.png":
+{
+	"frame": {"x":0,"y":397,"w":230,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":34,"w":230,"h":206},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00012.png":
+{
+	"frame": {"x":230,"y":397,"w":231,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":28,"w":231,"h":208},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00013.png":
+{
+	"frame": {"x":461,"y":397,"w":227,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":34,"w":227,"h":199},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00014.png":
+{
+	"frame": {"x":688,"y":397,"w":262,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":32,"w":262,"h":203},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00015.png":
+{
+	"frame": {"x":950,"y":397,"w":282,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":18,"w":282,"h":219},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00016.png":
+{
+	"frame": {"x":0,"y":616,"w":291,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":0,"w":291,"h":248},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00017.png":
+{
+	"frame": {"x":291,"y":616,"w":293,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":293,"h":248},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00018.png":
+{
+	"frame": {"x":584,"y":616,"w":300,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":300,"h":248},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00019.png":
+{
+	"frame": {"x":884,"y":616,"w":306,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":306,"h":248},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00020.png":
+{
+	"frame": {"x":0,"y":864,"w":306,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":306,"h":248},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00021.png":
+{
+	"frame": {"x":306,"y":864,"w":303,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":303,"h":248},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00022.png":
+{
+	"frame": {"x":609,"y":864,"w":304,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":304,"h":248},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00023.png":
+{
+	"frame": {"x":913,"y":864,"w":304,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":304,"h":248},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00024.png":
+{
+	"frame": {"x":0,"y":1112,"w":240,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":13,"w":240,"h":222},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00025.png":
+{
+	"frame": {"x":240,"y":1112,"w":234,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":17,"w":234,"h":214},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00026.png":
+{
+	"frame": {"x":474,"y":1112,"w":228,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":24,"w":228,"h":207},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00027.png":
+{
+	"frame": {"x":702,"y":1112,"w":224,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":31,"w":224,"h":199},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00028.png":
+{
+	"frame": {"x":926,"y":1112,"w":223,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":40,"w":223,"h":190},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00029.png":
+{
+	"frame": {"x":1149,"y":1112,"w":222,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":40,"w":222,"h":190},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hv3_wraith.png",
+	"format": "RGBA8888",
+	"size": {"w":1371,"h":1334},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2479ae208b4efca78a957e3870edd32c:8dc8c8ea6e070982e9120ed14dda7545:8bb49e62db2d386f02ec2d6273c6e3f0$"
+}
+}

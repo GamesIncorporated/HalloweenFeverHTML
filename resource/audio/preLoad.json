@@ -1,0 +1,184 @@
+{
+  "resources": [
+    "res\\Audio\\preLoad.ogg",
+    "res\\Audio\\preLoad.m4a",
+    "res\\Audio\\preLoad.mp3"
+  ],
+  "spritemap": {
+    "5oak": {
+      "start": 0,
+      "end": 3.534829931972789,
+      "loop": false
+    },
+    "Alarm": {
+      "start": 5,
+      "end": 7.8560090702947845,
+      "loop": false
+    },
+    "anticipation": {
+      "start": 9,
+      "end": 14.092244897959183,
+      "loop": false
+    },
+    "basegame_loop": {
+      "start": 16,
+      "end": 90.61977324263039,
+      "loop": true
+    },
+    "big_win_loop": {
+      "start": 92,
+      "end": 95.7408163265306,
+      "loop": false
+    },
+    "bonus_win": {
+      "start": 97,
+      "end": 100.62086167800453,
+      "loop": false
+    },
+    "common_win_end": {
+      "start": 102,
+      "end": 103.41269841269842,
+      "loop": false
+    },
+    "CS_Freegame_intro_popup": {
+      "start": 105,
+      "end": 107.60680272108843,
+      "loop": false
+    },
+    "CS_Freegame_outro_popup": {
+      "start": 109,
+      "end": 111.60680272108843,
+      "loop": false
+    },
+    "freespins_intro_transition_1": {
+      "start": 113,
+      "end": 115.75004535147393,
+      "loop": false
+    },
+    "Freespins_Loop": {
+      "start": 117,
+      "end": 146.62058956916098,
+      "loop": true
+    },
+    "fs_number_move": {
+      "start": 148,
+      "end": 148.8797732426304,
+      "loop": false
+    },
+    "fs_retrigger": {
+      "start": 150,
+      "end": 151.52897959183673,
+      "loop": false
+    },
+    "generic_btn": {
+      "start": 153,
+      "end": 153.0671655328798,
+      "loop": false
+    },
+    "line_win": {
+      "start": 155,
+      "end": 156.58,
+      "loop": false
+    },
+    "mega_big_win_loop": {
+      "start": 158,
+      "end": 161.74857142857144,
+      "loop": false
+    },
+    "Neptune_Rising": {
+      "start": 163,
+      "end": 166.01943310657597,
+      "loop": false
+    },
+    "Reels_spin1": {
+      "start": 168,
+      "end": 172.5677097505669,
+      "loop": false
+    },
+    "Reel_stop": {
+      "start": 174,
+      "end": 174.96979591836734,
+      "loop": false
+    },
+    "Reel_stop_v2": {
+      "start": 176,
+      "end": 176.7512925170068,
+      "loop": false
+    },
+    "scatter_landing": {
+      "start": 178,
+      "end": 178.9775963718821,
+      "loop": false
+    },
+    "Scatter_passing": {
+      "start": 180,
+      "end": 182.8995918367347,
+      "loop": false
+    },
+    "Scatter_win": {
+      "start": 184,
+      "end": 186.45873015873016,
+      "loop": false
+    },
+    "Spin_button": {
+      "start": 188,
+      "end": 188.52843537414967,
+      "loop": false
+    },
+    "Stop_button": {
+      "start": 190,
+      "end": 190.8154648526077,
+      "loop": false
+    },
+    "Super_Big_Win": {
+      "start": 192,
+      "end": 195.75578231292516,
+      "loop": false
+    },
+    "super_big_win_loop": {
+      "start": 197,
+      "end": 204.0598185941043,
+      "loop": false
+    },
+    "Symbol_conversion_Tornado": {
+      "start": 206,
+      "end": 208.26362811791384,
+      "loop": false
+    },
+    "thunder_crack": {
+      "start": 210,
+      "end": 212.4026984126984,
+      "loop": false
+    },
+    "Transition_1": {
+      "start": 214,
+      "end": 216.31913832199547,
+      "loop": false
+    },
+    "Transition_2": {
+      "start": 218,
+      "end": 220.22131519274376,
+      "loop": false
+    },
+    "trident_lightning": {
+      "start": 222,
+      "end": 225.45365079365078,
+      "loop": false
+    },
+    "ultra_big_win_loop": {
+      "start": 227,
+      "end": 230.74984126984128,
+      "loop": false
+    },
+    "wintickup_center": {
+      "start": 232,
+      "end": 233.2949433106576,
+      "loop": false
+    },
+    "win_fade": {
+      "start": 235,
+      "end": 236.2409523809524,
+      "loop": false
+    }
+  }
+}

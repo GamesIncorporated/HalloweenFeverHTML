@@ -1,0 +1,21 @@
+{"frames": {
+
+"graveyard_grab_feature_both_hand_00057.png":
+{
+	"frame": {"x":0,"y":0,"w":526,"h":474},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":224,"y":58,"w":526,"h":474},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "graveyard_grab_feature_both_hand-8.png",
+	"format": "RGBA8888",
+	"size": {"w":526,"h":474},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:834b804d1624c4fa48f06809341f1005:ccd823cdfc064a43ff797eaf8e7e88cc:7e4cbb5ba9dc34594298c3d41b516e29$"
+}
+}

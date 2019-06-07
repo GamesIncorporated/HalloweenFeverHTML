@@ -1,0 +1,129 @@
+{"frames": {
+
+"hv1_evil_queen_00000.png":
+{
+	"frame": {"x":2,"y":2,"w":213,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":15,"w":213,"h":178},
+	"sourceSize": {"w":250,"h":209},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv2_werewolf_00000.png":
+{
+	"frame": {"x":2,"y":182,"w":214,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":36,"w":214,"h":180},
+	"sourceSize": {"w":303,"h":252},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith_00000.png":
+{
+	"frame": {"x":2,"y":364,"w":222,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":41,"w":222,"h":190},
+	"sourceSize": {"w":325,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv4_skull_00000.png":
+{
+	"frame": {"x":2,"y":556,"w":187,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":19,"w":187,"h":170},
+	"sourceSize": {"w":250,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv5_blackrose_00000.png":
+{
+	"frame": {"x":2,"y":728,"w":178,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":31,"w":178,"h":154},
+	"sourceSize": {"w":250,"h":209},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"royal_9_00000.png":
+{
+	"frame": {"x":2,"y":884,"w":95,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":31,"w":95,"h":116},
+	"sourceSize": {"w":211,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"royal_10_00000.png":
+{
+	"frame": {"x":99,"y":884,"w":154,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":30,"w":154,"h":117},
+	"sourceSize": {"w":211,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"royal_a_00000.png":
+{
+	"frame": {"x":2,"y":1003,"w":138,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":26,"w":138,"h":125},
+	"sourceSize": {"w":211,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"royal_j_00000.png":
+{
+	"frame": {"x":142,"y":1003,"w":99,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":28,"w":99,"h":121},
+	"sourceSize": {"w":211,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"royal_k_00000.png":
+{
+	"frame": {"x":2,"y":1130,"w":147,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":26,"w":147,"h":124},
+	"sourceSize": {"w":211,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"royal_q_00000.png":
+{
+	"frame": {"x":2,"y":1256,"w":127,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":26,"w":127,"h":124},
+	"sourceSize": {"w":211,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scatter_00000.png":
+{
+	"frame": {"x":2,"y":1382,"w":225,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":83,"w":225,"h":188},
+	"sourceSize": {"w":350,"h":355},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00000.png":
+{
+	"frame": {"x":2,"y":1572,"w":214,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":56,"w":214,"h":216},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Symbols.png",
+	"format": "RGBA8888",
+	"size": {"w":255,"h":1790},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2b6230eae4683bb5b85fcad4802f90f2:5af7bc8e158983e21b0e88a84b010c0d:bc5579a1f656fa1a31a8a78fed696117$"
+}
+}
