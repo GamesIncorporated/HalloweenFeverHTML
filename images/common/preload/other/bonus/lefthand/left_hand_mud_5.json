@@ -1,0 +1,84 @@
+{"frames": {
+
+"left_hand_mud_00043.png":
+{
+	"frame": {"x":0,"y":0,"w":926,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":86,"w":926,"h":486},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_mud_00044.png":
+{
+	"frame": {"x":926,"y":0,"w":926,"h":497},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":75,"w":926,"h":497},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_mud_00045.png":
+{
+	"frame": {"x":0,"y":497,"w":926,"h":502},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":70,"w":926,"h":502},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_mud_00046.png":
+{
+	"frame": {"x":926,"y":497,"w":926,"h":476},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":94,"w":926,"h":476},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_mud_00047.png":
+{
+	"frame": {"x":0,"y":999,"w":926,"h":469},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":103,"w":926,"h":469},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_mud_00048.png":
+{
+	"frame": {"x":926,"y":999,"w":926,"h":480},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":92,"w":926,"h":480},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_mud_00049.png":
+{
+	"frame": {"x":0,"y":1479,"w":926,"h":494},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":77,"w":926,"h":494},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_mud_00050.png":
+{
+	"frame": {"x":926,"y":1479,"w":928,"h":500},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":71,"w":928,"h":500},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "left_hand_mud-5.png",
+	"format": "RGBA8888",
+	"size": {"w":1854,"h":1979},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a7cad9b370143444fb446e5942244d41:425e8153b75451691cf909ca3cad3250:018ee8411641f1e7e0dd88b919386955$"
+}
+}

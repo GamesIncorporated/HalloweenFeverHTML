@@ -7,177 +7,272 @@
   "spritemap": {
     "5oak": {
       "start": 0,
-      "end": 3.534829931972789,
+      "end": 2.7767346938775512,
       "loop": false
     },
     "Alarm": {
-      "start": 5,
-      "end": 7.8560090702947845,
+      "start": 4,
+      "end": 6.8560090702947845,
       "loop": false
     },
     "anticipation": {
-      "start": 9,
-      "end": 14.092244897959183,
+      "start": 8,
+      "end": 13.969342403628119,
       "loop": false
     },
     "basegame_loop": {
-      "start": 16,
-      "end": 90.61977324263039,
+      "start": 15,
+      "end": 85.79183673469387,
       "loop": true
     },
+    "basegame_transition": {
+      "start": 87,
+      "end": 91.06641723356009,
+      "loop": false
+    },
     "big_win_loop": {
-      "start": 92,
-      "end": 95.7408163265306,
+      "start": 93,
+      "end": 97.01077097505669,
+      "loop": true
+    },
+    "Black_Rose_Win": {
+      "start": 99,
+      "end": 101.23290249433107,
       "loop": false
     },
     "bonus_win": {
-      "start": 97,
-      "end": 100.62086167800453,
+      "start": 103,
+      "end": 106.62086167800453,
       "loop": false
     },
     "common_win_end": {
-      "start": 102,
-      "end": 103.41269841269842,
+      "start": 108,
+      "end": 109.47578231292518,
+      "loop": false
+    },
+    "CS_FG_intro_popup": {
+      "start": 111,
+      "end": 113.60680272108843,
+      "loop": false
+    },
+    "CS_FG_outro_popup": {
+      "start": 115,
+      "end": 117.60680272108843,
       "loop": false
     },
     "CS_Freegame_intro_popup": {
-      "start": 105,
-      "end": 107.60680272108843,
+      "start": 119,
+      "end": 121.60680272108843,
       "loop": false
     },
     "CS_Freegame_outro_popup": {
-      "start": 109,
-      "end": 111.60680272108843,
+      "start": 123,
+      "end": 125.60680272108843,
+      "loop": false
+    },
+    "Evil_Queen_Win": {
+      "start": 127,
+      "end": 129.49421768707484,
+      "loop": false
+    },
+    "freegame_intro": {
+      "start": 131,
+      "end": 133.96621315192743,
+      "loop": false
+    },
+    "freegame_outro": {
+      "start": 135,
+      "end": 137.19038548752835,
       "loop": false
     },
     "freespins_intro_transition_1": {
-      "start": 113,
-      "end": 115.75004535147393,
+      "start": 139,
+      "end": 141.75004535147391,
       "loop": false
     },
     "Freespins_Loop": {
-      "start": 117,
-      "end": 146.62058956916098,
+      "start": 143,
+      "end": 186.5722448979592,
       "loop": true
     },
+    "fs_intro_transition_1": {
+      "start": 188,
+      "end": 190.75004535147391,
+      "loop": false
+    },
     "fs_number_move": {
-      "start": 148,
-      "end": 148.8797732426304,
+      "start": 192,
+      "end": 193.44555555555556,
       "loop": false
     },
     "fs_retrigger": {
-      "start": 150,
-      "end": 151.52897959183673,
+      "start": 195,
+      "end": 198.0634693877551,
       "loop": false
     },
     "generic_btn": {
-      "start": 153,
-      "end": 153.0671655328798,
+      "start": 200,
+      "end": 200.0671655328798,
+      "loop": false
+    },
+    "Hands_Dragging": {
+      "start": 202,
+      "end": 205.20897959183674,
+      "loop": false
+    },
+    "hands_fodeOut": {
+      "start": 207,
+      "end": 211.0424036281179,
+      "loop": false
+    },
+    "Hands_Rising": {
+      "start": 213,
+      "end": 217.1360544217687,
+      "loop": false
+    },
+    "hand_rising_teaser": {
+      "start": 219,
+      "end": 221.56,
       "loop": false
     },
     "line_win": {
-      "start": 155,
-      "end": 156.58,
+      "start": 223,
+      "end": 226.1335827664399,
       "loop": false
     },
     "mega_big_win_loop": {
-      "start": 158,
-      "end": 161.74857142857144,
+      "start": 228,
+      "end": 232,
       "loop": false
     },
     "Neptune_Rising": {
-      "start": 163,
-      "end": 166.01943310657597,
+      "start": 233,
+      "end": 237.1360544217687,
       "loop": false
     },
     "Reels_spin1": {
-      "start": 168,
-      "end": 172.5677097505669,
+      "start": 239,
+      "end": 243.5677097505669,
+      "loop": false
+    },
+    "reels_spin": {
+      "start": 245,
+      "end": 249.786462585034,
       "loop": false
     },
     "Reel_stop": {
-      "start": 174,
-      "end": 174.96979591836734,
+      "start": 251,
+      "end": 251.7001814058957,
       "loop": false
     },
     "Reel_stop_v2": {
-      "start": 176,
-      "end": 176.7512925170068,
+      "start": 253,
+      "end": 253.7512925170068,
+      "loop": false
+    },
+    "Royals_Win": {
+      "start": 255,
+      "end": 257.41693877551023,
       "loop": false
     },
     "scatter_landing": {
-      "start": 178,
-      "end": 178.9775963718821,
+      "start": 259,
+      "end": 260.39739229024946,
       "loop": false
     },
     "Scatter_passing": {
-      "start": 180,
-      "end": 182.8995918367347,
+      "start": 262,
+      "end": 264.8995918367347,
       "loop": false
     },
     "Scatter_win": {
-      "start": 184,
-      "end": 186.45873015873016,
+      "start": 266,
+      "end": 268.2292063492063,
+      "loop": false
+    },
+    "Skull_Win": {
+      "start": 270,
+      "end": 272.2329024943311,
       "loop": false
     },
     "Spin_button": {
-      "start": 188,
-      "end": 188.52843537414967,
+      "start": 274,
+      "end": 275.86920634920637,
+      "loop": false
+    },
+    "Spin_stop_button": {
+      "start": 277,
+      "end": 278.7516099773243,
       "loop": false
     },
     "Stop_button": {
-      "start": 190,
-      "end": 190.8154648526077,
+      "start": 280,
+      "end": 281.7516099773243,
       "loop": false
     },
     "Super_Big_Win": {
-      "start": 192,
-      "end": 195.75578231292516,
+      "start": 283,
+      "end": 286.7557823129252,
       "loop": false
     },
     "super_big_win_loop": {
-      "start": 197,
-      "end": 204.0598185941043,
+      "start": 288,
+      "end": 292,
+      "loop": false
+    },
+    "Symbol_conversion": {
+      "start": 293,
+      "end": 295.2636281179138,
       "loop": false
     },
     "Symbol_conversion_Tornado": {
-      "start": 206,
-      "end": 208.26362811791384,
+      "start": 297,
+      "end": 299.2636281179138,
       "loop": false
     },
     "thunder_crack": {
-      "start": 210,
-      "end": 212.4026984126984,
+      "start": 301,
+      "end": 303.4026984126984,
       "loop": false
     },
     "Transition_1": {
-      "start": 214,
-      "end": 216.31913832199547,
+      "start": 305,
+      "end": 306.8882993197279,
       "loop": false
     },
     "Transition_2": {
-      "start": 218,
-      "end": 220.22131519274376,
+      "start": 308,
+      "end": 310.0016326530612,
       "loop": false
     },
     "trident_lightning": {
-      "start": 222,
-      "end": 225.45365079365078,
+      "start": 312,
+      "end": 315.4536507936508,
       "loop": false
     },
     "ultra_big_win_loop": {
-      "start": 227,
-      "end": 230.74984126984128,
+      "start": 317,
+      "end": 321,
+      "loop": false
+    },
+    "Werewolf_Win": {
+      "start": 322,
+      "end": 324.4983673469388,
       "loop": false
     },
     "wintickup_center": {
-      "start": 232,
-      "end": 233.2949433106576,
+      "start": 326,
+      "end": 327.2949433106576,
       "loop": false
     },
     "win_fade": {
-      "start": 235,
-      "end": 236.2409523809524,
+      "start": 329,
+      "end": 330.6721088435374,
+      "loop": false
+    },
+    "Wraith_Win": {
+      "start": 332,
+      "end": 334.595283446712,
       "loop": false
     }
   }

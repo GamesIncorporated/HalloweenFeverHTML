@@ -11,79 +11,79 @@
 },
 "7_00002.png":
 {
-	"frame": {"x":11,"y":5,"w":209,"h":154},
+	"frame": {"x":11,"y":5,"w":245,"h":192},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":94,"w":209,"h":154},
+	"spriteSourceSize": {"x":0,"y":57,"w":245,"h":192},
 	"sourceSize": {"w":1047,"h":261},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "7_00003.png":
 {
-	"frame": {"x":225,"y":5,"w":445,"h":234},
+	"frame": {"x":261,"y":5,"w":497,"h":240},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":14,"w":445,"h":234},
+	"spriteSourceSize": {"x":0,"y":9,"w":497,"h":240},
 	"sourceSize": {"w":1047,"h":261},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "7_00004.png":
 {
-	"frame": {"x":5,"y":244,"w":700,"h":239},
+	"frame": {"x":5,"y":250,"w":743,"h":240},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":9,"w":700,"h":239},
+	"spriteSourceSize": {"x":0,"y":9,"w":743,"h":240},
 	"sourceSize": {"w":1047,"h":261},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "7_00005.png":
 {
-	"frame": {"x":5,"y":488,"w":914,"h":239},
+	"frame": {"x":5,"y":495,"w":963,"h":241},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":2,"y":9,"w":914,"h":239},
+	"spriteSourceSize": {"x":0,"y":9,"w":963,"h":241},
 	"sourceSize": {"w":1047,"h":261},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "7_00006.png":
 {
-	"frame": {"x":5,"y":732,"w":921,"h":243},
+	"frame": {"x":5,"y":741,"w":963,"h":244},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":126,"y":9,"w":921,"h":243},
+	"spriteSourceSize": {"x":84,"y":9,"w":963,"h":244},
 	"sourceSize": {"w":1047,"h":261},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "7_00007.png":
 {
-	"frame": {"x":5,"y":980,"w":729,"h":232},
+	"frame": {"x":5,"y":990,"w":777,"h":244},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":318,"y":20,"w":729,"h":232},
+	"spriteSourceSize": {"x":270,"y":9,"w":777,"h":244},
 	"sourceSize": {"w":1047,"h":261},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "7_00008.png":
 {
-	"frame": {"x":5,"y":1217,"w":477,"h":174},
+	"frame": {"x":5,"y":1239,"w":521,"h":178},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":570,"y":78,"w":477,"h":174},
+	"spriteSourceSize": {"x":526,"y":75,"w":521,"h":178},
 	"sourceSize": {"w":1047,"h":261},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "7_00009.png":
 {
-	"frame": {"x":487,"y":1217,"w":230,"h":108},
+	"frame": {"x":531,"y":1239,"w":276,"h":146},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":817,"y":144,"w":230,"h":108},
+	"spriteSourceSize": {"x":771,"y":107,"w":276,"h":146},
 	"sourceSize": {"w":1047,"h":261},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "7_00010.png":
 {
-	"frame": {"x":722,"y":1217,"w":1,"h":1},
+	"frame": {"x":812,"y":1239,"w":1,"h":1},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
@@ -95,8 +95,8 @@
 	"version": "1.0",
 	"image": "Paylines_7.png",
 	"format": "RGBA8888",
-	"size": {"w":931,"h":1396},
+	"size": {"w":973,"h":1422},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:9b1c33774669baf969cfe7958540b689:555039c8e154ab4d10706aeeb3c329cd:f7268c6ac6d94117bbaf409538975c10$"
+	"smartupdate": "$TexturePacker:SmartUpdate:6f76e1b49b66e156753195e18eb90e84:8ebf29d8c98ebc98f663ecbe6e48000a:f7268c6ac6d94117bbaf409538975c10$"
 }
 }

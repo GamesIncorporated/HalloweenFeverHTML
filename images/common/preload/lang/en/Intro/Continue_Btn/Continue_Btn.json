@@ -27,7 +27,7 @@
 	"sourceSize": {"w":50,"h":50},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"Continue_Normal.png":
+"Continue_Normal_en.png":
 {
 	"frame": {"x":158,"y":2,"w":265,"h":98},
 	"rotated": false,
@@ -36,7 +36,7 @@
 	"sourceSize": {"w":265,"h":98},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"Continue_Over.png":
+"Continue_Over_en.png":
 {
 	"frame": {"x":2,"y":102,"w":265,"h":98},
 	"rotated": false,
@@ -45,7 +45,7 @@
 	"sourceSize": {"w":265,"h":98},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"Continue_Pressed.png":
+"Continue_Pressed_en.png":
 {
 	"frame": {"x":2,"y":202,"w":251,"h":94},
 	"rotated": false,

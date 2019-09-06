@@ -455,7 +455,7 @@
     "text": "JOGOS GRÁTIS restantes"
   },
   "lbl_free_plays_left": {
-    "text": "%freePlayCounter% JOGOS GRÁTIS restantes"
+    "text": "%freePlayCounter% JOGOS GRÁTIS concluídos"
   },
   "lbl_NoLimits":{
     "text":"NÃO LIMITES"

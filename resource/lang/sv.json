@@ -501,7 +501,7 @@
     "text":"Vi har upptäckt att det föregående spelet inte \n slutförts. Vi kommer att återuppta spelet, som du nu \n kan fortsätta med."
   },
   "lbl_GameOnIEBrowserErrorMsg":{
-    "text":"Hemos detectado que está jugando con el navegador IE11, lo\n cual podría provocar algunos problemas de sonido en el \n juego.Le recomendamos jugar con los navegadores más \n conocidos para disfrutar de una mejor experiencia de juego."
+    "text":"Vi har upptäckt att du spelar via webbläsaren IE11, \n vilket kan medföra vissa ljudproblem i spelet. \n Vi rekommenderar att du istället spelar det här spelet \n på någon av de vanligaste webbläsarna för \n att få en bättre spelupplevelse."
   },
   "lbl_GameOnUCBrowserErrorMsg":{
     "text":"We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
