@@ -1,0 +1,129 @@
+{"frames": {
+
+"9.png":
+{
+	"frame": {"x":2,"y":2,"w":24,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":24,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"10.png":
+{
+	"frame": {"x":28,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"a.png":
+{
+	"frame": {"x":69,"y":2,"w":33,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":33,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv1_evil_queen.png":
+{
+	"frame": {"x":104,"y":2,"w":35,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":35,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv2_werewolf.png":
+{
+	"frame": {"x":141,"y":2,"w":35,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":35,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv3_wraith.png":
+{
+	"frame": {"x":178,"y":2,"w":34,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":34,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv4_skull.png":
+{
+	"frame": {"x":214,"y":2,"w":33,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":33,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hv5_blackrose.png":
+{
+	"frame": {"x":249,"y":2,"w":34,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":34,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"j.png":
+{
+	"frame": {"x":285,"y":2,"w":25,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":25,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"k.png":
+{
+	"frame": {"x":312,"y":2,"w":35,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":35,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"q.png":
+{
+	"frame": {"x":349,"y":2,"w":31,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":31,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scatter.png":
+{
+	"frame": {"x":382,"y":2,"w":36,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":36,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone.png":
+{
+	"frame": {"x":420,"y":2,"w":30,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":30,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Player_Message_Icons.png",
+	"format": "RGBA8888",
+	"size": {"w":452,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1d31f0dcf688576159bb7bd591b970f6:0c2d2cf81d360cf1c4e94cd895c37904:20fb7f4efb27f563c91096a1459019d9$"
+}
+}

@@ -1,0 +1,292 @@
+
+freespin_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freespins_bat_anim_00000
+  rotate: true
+  xy: 1526, 511
+  size: 242, 128
+  orig: 242, 128
+  offset: 0, 0
+  index: -1
+freespins_bg_base
+  rotate: false
+  xy: 2, 1315
+  size: 1284, 724
+  orig: 1284, 724
+  offset: 0, 0
+  index: -1
+freespins_bg_cloud_1
+  rotate: false
+  xy: 1663, 575
+  size: 372, 178
+  orig: 372, 178
+  offset: 0, 0
+  index: -1
+freespins_bg_cloud_2
+  rotate: false
+  xy: 1643, 342
+  size: 399, 167
+  orig: 399, 167
+  offset: 0, 0
+  index: -1
+freespins_bg_cloud_all
+  rotate: false
+  xy: 2, 304
+  size: 1284, 474
+  orig: 1284, 474
+  offset: 0, 0
+  index: -1
+freespins_bg_fog
+  rotate: false
+  xy: 377, 17
+  size: 1284, 285
+  orig: 1284, 285
+  offset: 0, 0
+  index: -1
+freespins_bg_house
+  rotate: false
+  xy: 2, 2
+  size: 373, 300
+  orig: 373, 300
+  offset: 0, 0
+  index: -1
+freespins_bg_house_alpha
+  rotate: true
+  xy: 1663, 12
+  size: 328, 186
+  orig: 328, 186
+  offset: 0, 0
+  index: -1
+freespins_bg_owl
+  rotate: true
+  xy: 1656, 529
+  size: 44, 87
+  orig: 44, 87
+  offset: 0, 0
+  index: -1
+freespins_bg_owl_1
+  rotate: true
+  xy: 1832, 533
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+freespins_bg_owl_bat_1
+  rotate: false
+  xy: 2014, 2020
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+freespins_bg_owl_bat_2
+  rotate: false
+  xy: 2014, 1930
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+freespins_bg_owl_bat_3
+  rotate: false
+  xy: 2033, 1933
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+freespins_bg_owl_eye
+  rotate: false
+  xy: 2014, 1974
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+freespins_bg_owl_eye_close_1
+  rotate: false
+  xy: 2014, 1959
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+freespins_bg_owl_eye_close_2
+  rotate: false
+  xy: 2014, 1944
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+freespins_bg_owl_head
+  rotate: true
+  xy: 2014, 1991
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+freespins_bg_owl_new
+  rotate: true
+  xy: 1745, 531
+  size: 42, 85
+  orig: 42, 85
+  offset: 0, 0
+  index: -1
+freespins_bg_smoke_1
+  rotate: true
+  xy: 1851, 237
+  size: 103, 182
+  orig: 103, 182
+  offset: 0, 0
+  index: -1
+freespins_bg_tree_all_1
+  rotate: false
+  xy: 2, 780
+  size: 1284, 533
+  orig: 1284, 533
+  offset: 0, 0
+  index: -1
+freespins_bg_tree_all_2
+  rotate: true
+  xy: 1288, 755
+  size: 1284, 724
+  orig: 1284, 724
+  offset: 0, 0
+  index: -1
+freespins_bg_tree_left_4
+  rotate: false
+  xy: 1288, 579
+  size: 236, 174
+  orig: 236, 174
+  offset: 0, 0
+  index: -1
+freespins_bg_tree_right_2
+  rotate: true
+  xy: 1288, 310
+  size: 263, 229
+  orig: 263, 229
+  offset: 0, 0
+  index: -1
+freespins_lightning
+  rotate: false
+  xy: 1519, 306
+  size: 122, 203
+  orig: 122, 203
+  offset: 0, 0
+  index: -1
+freespins_witch
+  rotate: true
+  xy: 1851, 11
+  size: 224, 165
+  orig: 224, 165
+  offset: 0, 0
+  index: -1
+
+freespin_bg2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freespins_bat_anim_00001
+  rotate: false
+  xy: 983, 885
+  size: 242, 128
+  orig: 242, 128
+  offset: 0, 0
+  index: -1
+freespins_bat_anim_00002
+  rotate: false
+  xy: 728, 885
+  size: 242, 128
+  orig: 242, 128
+  offset: 0, 0
+  index: -1
+freespins_bat_anim_00003
+  rotate: true
+  xy: 728, 641
+  size: 242, 128
+  orig: 242, 128
+  offset: 0, 0
+  index: -1
+freespins_bat_anim_00004
+  rotate: false
+  xy: 983, 537
+  size: 242, 128
+  orig: 242, 128
+  offset: 0, 0
+  index: -1
+freespins_bg_fog_loop
+  rotate: true
+  xy: 2, 184
+  size: 829, 724
+  orig: 829, 724
+  offset: 0, 0
+  index: -1
+freespins_bg_grass
+  rotate: false
+  xy: 2, 3
+  size: 1284, 179
+  orig: 1284, 179
+  offset: 0, 0
+  index: -1
+freespins_bg_smoke_2
+  rotate: true
+  xy: 1727, 20
+  size: 210, 256
+  orig: 210, 256
+  offset: 0, 0
+  index: -1
+freespins_bg_smoke_3
+  rotate: true
+  xy: 858, 667
+  size: 216, 420
+  orig: 216, 420
+  offset: 0, 0
+  index: -1
+freespins_bg_smoke_4
+  rotate: false
+  xy: 1727, 232
+  size: 231, 360
+  orig: 231, 360
+  offset: 0, 0
+  index: -1
+freespins_bg_smoke_5
+  rotate: true
+  xy: 1966, 434
+  size: 461, 51
+  orig: 461, 51
+  offset: 0, 0
+  index: -1
+freespins_bg_smoke_6
+  rotate: false
+  xy: 983, 366
+  size: 208, 169
+  orig: 208, 169
+  offset: 0, 0
+  index: -1
+freespins_bg_tree_left_1
+  rotate: true
+  xy: 728, 187
+  size: 405, 253
+  orig: 405, 253
+  offset: 0, 0
+  index: -1
+freespins_bg_tree_left_2
+  rotate: false
+  xy: 1288, 2
+  size: 437, 590
+  orig: 437, 590
+  offset: 0, 0
+  index: -1
+freespins_bg_tree_left_3
+  rotate: true
+  xy: 1966, 897
+  size: 116, 72
+  orig: 116, 72
+  offset: 0, 0
+  index: -1
+freespins_bg_tree_right_1
+  rotate: true
+  xy: 1288, 594
+  size: 419, 676
+  orig: 419, 676
+  offset: 0, 0
+  index: -1
