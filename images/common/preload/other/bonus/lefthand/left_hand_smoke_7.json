@@ -1,0 +1,75 @@
+{"frames": {
+
+"left_hand_smoke_00051.png":
+{
+	"frame": {"x":0,"y":0,"w":950,"h":544},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":12,"w":950,"h":544},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00052.png":
+{
+	"frame": {"x":950,"y":0,"w":947,"h":544},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":12,"w":947,"h":544},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00053.png":
+{
+	"frame": {"x":0,"y":544,"w":943,"h":543},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":12,"w":943,"h":543},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00054.png":
+{
+	"frame": {"x":943,"y":544,"w":934,"h":539},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":12,"w":934,"h":539},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00055.png":
+{
+	"frame": {"x":0,"y":1087,"w":894,"h":539},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":12,"w":894,"h":539},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00056.png":
+{
+	"frame": {"x":894,"y":1087,"w":890,"h":534},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":12,"w":890,"h":534},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00057.png":
+{
+	"frame": {"x":1784,"y":1087,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "left_hand_smoke-7.png",
+	"format": "RGBA8888",
+	"size": {"w":1897,"h":1626},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:30731114e3dca7208ab9d25e0ae67b66:8074f030ebb41b54d8a98fa5ec65169f:b80d92ffca84c1f5a3af0d582f47f0a0$"
+}
+}

@@ -1,0 +1,250 @@
+
+basegame_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_bg_base
+  rotate: false
+  xy: 2, 1309
+  size: 1282, 722
+  orig: 1282, 722
+  offset: 0, 0
+  index: -1
+basegame_bg_cloud_1
+  rotate: false
+  xy: 1659, 134
+  size: 370, 176
+  orig: 370, 176
+  offset: 0, 0
+  index: -1
+basegame_bg_cloud_2
+  rotate: true
+  xy: 1876, 350
+  size: 397, 165
+  orig: 397, 165
+  offset: 0, 0
+  index: -1
+basegame_bg_cloud_all
+  rotate: false
+  xy: 2, 302
+  size: 1282, 472
+  orig: 1282, 472
+  offset: 0, 0
+  index: -1
+basegame_bg_fog
+  rotate: false
+  xy: 375, 17
+  size: 1282, 283
+  orig: 1282, 283
+  offset: 0, 0
+  index: -1
+basegame_bg_house
+  rotate: false
+  xy: 2, 2
+  size: 371, 298
+  orig: 371, 298
+  offset: 0, 0
+  index: -1
+basegame_bg_owl
+  rotate: true
+  xy: 1936, 90
+  size: 42, 85
+  orig: 42, 85
+  offset: 0, 0
+  index: -1
+basegame_bg_owl_eye
+  rotate: false
+  xy: 2010, 1989
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+basegame_bg_owl_eye_close_1
+  rotate: true
+  xy: 2035, 1979
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+basegame_bg_owl_eye_close_2
+  rotate: false
+  xy: 2010, 1976
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+basegame_bg_owl_head
+  rotate: true
+  xy: 2010, 2004
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_all_1
+  rotate: false
+  xy: 2, 776
+  size: 1282, 531
+  orig: 1282, 531
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_all_2
+  rotate: true
+  xy: 1286, 749
+  size: 1282, 722
+  orig: 1282, 722
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_2
+  rotate: true
+  xy: 1286, 312
+  size: 435, 588
+  orig: 435, 588
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_3
+  rotate: true
+  xy: 1864, 18
+  size: 114, 70
+  orig: 114, 70
+  offset: 0, 0
+  index: -1
+basegame_lightning
+  rotate: true
+  xy: 1659, 10
+  size: 122, 203
+  orig: 122, 203
+  offset: 0, 0
+  index: -1
+
+basegame_idle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_bat_00000
+  rotate: false
+  xy: 2, 104
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bat_00001
+  rotate: false
+  xy: 265, 333
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bat_00002
+  rotate: false
+  xy: 831, 954
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bat_00003
+  rotate: false
+  xy: 104, 104
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bat_00004
+  rotate: true
+  xy: 2, 2
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bat_00005
+  rotate: false
+  xy: 367, 333
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bat_00006
+  rotate: false
+  xy: 933, 954
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bat_00007
+  rotate: true
+  xy: 831, 852
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bat_00008
+  rotate: false
+  xy: 469, 333
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bat_00009
+  rotate: false
+  xy: 571, 333
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+basegame_bg_base_1
+  rotate: false
+  xy: 2, 1569
+  size: 1280, 472
+  orig: 1280, 472
+  offset: 0, 0
+  index: -1
+basegame_bg_fog_loop
+  rotate: false
+  xy: 2, 845
+  size: 827, 722
+  orig: 827, 722
+  offset: 0, 0
+  index: -1
+basegame_bg_grass
+  rotate: false
+  xy: 2, 666
+  size: 1282, 177
+  orig: 1282, 177
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_1
+  rotate: false
+  xy: 831, 1316
+  size: 403, 251
+  orig: 403, 251
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_4
+  rotate: false
+  xy: 831, 1142
+  size: 234, 172
+  orig: 234, 172
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_right_1
+  rotate: true
+  xy: 1284, 1624
+  size: 417, 674
+  orig: 417, 674
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_right_2
+  rotate: false
+  xy: 2, 292
+  size: 261, 227
+  orig: 261, 227
+  offset: 0, 0
+  index: -1
+basegame_bg_upper_mud
+  rotate: false
+  xy: 2, 521
+  size: 1282, 143
+  orig: 1282, 143
+  offset: 0, 0
+  index: -1
