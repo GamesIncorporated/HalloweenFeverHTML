@@ -1,0 +1,282 @@
+{"frames": {
+
+"wild_rip_headstone_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":212,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":57,"w":212,"h":214},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00001.png":
+{
+	"frame": {"x":212,"y":0,"w":214,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":56,"w":214,"h":215},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00002.png":
+{
+	"frame": {"x":426,"y":0,"w":222,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":57,"w":222,"h":214},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00003.png":
+{
+	"frame": {"x":648,"y":0,"w":247,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":56,"w":247,"h":234},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00004.png":
+{
+	"frame": {"x":895,"y":0,"w":251,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":57,"w":251,"h":235},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00005.png":
+{
+	"frame": {"x":1146,"y":0,"w":236,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":57,"w":236,"h":231},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00006.png":
+{
+	"frame": {"x":1382,"y":0,"w":238,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":57,"w":238,"h":229},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00007.png":
+{
+	"frame": {"x":0,"y":235,"w":248,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":57,"w":248,"h":238},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00008.png":
+{
+	"frame": {"x":248,"y":235,"w":265,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":57,"w":265,"h":242},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00009.png":
+{
+	"frame": {"x":513,"y":235,"w":266,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":47,"w":266,"h":251},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00010.png":
+{
+	"frame": {"x":779,"y":235,"w":248,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":39,"w":248,"h":258},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00011.png":
+{
+	"frame": {"x":1027,"y":235,"w":249,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":44,"w":249,"h":253},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00012.png":
+{
+	"frame": {"x":1276,"y":235,"w":249,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":39,"w":249,"h":258},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00013.png":
+{
+	"frame": {"x":0,"y":493,"w":274,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":48,"w":274,"h":252},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00014.png":
+{
+	"frame": {"x":274,"y":493,"w":266,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":41,"w":266,"h":256},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00015.png":
+{
+	"frame": {"x":540,"y":493,"w":284,"h":261},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":40,"w":284,"h":261},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00016.png":
+{
+	"frame": {"x":824,"y":493,"w":283,"h":263},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":40,"w":283,"h":263},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00017.png":
+{
+	"frame": {"x":1107,"y":493,"w":284,"h":262},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":40,"w":284,"h":262},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00018.png":
+{
+	"frame": {"x":0,"y":756,"w":254,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":42,"w":254,"h":255},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00019.png":
+{
+	"frame": {"x":254,"y":756,"w":261,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":43,"w":261,"h":254},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00020.png":
+{
+	"frame": {"x":515,"y":756,"w":266,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":50,"w":266,"h":255},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00021.png":
+{
+	"frame": {"x":781,"y":756,"w":265,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":38,"w":265,"h":266},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00022.png":
+{
+	"frame": {"x":1046,"y":756,"w":265,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":43,"w":265,"h":260},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00023.png":
+{
+	"frame": {"x":1311,"y":756,"w":266,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":40,"w":266,"h":256},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00024.png":
+{
+	"frame": {"x":0,"y":1022,"w":251,"h":259},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":36,"w":251,"h":259},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00025.png":
+{
+	"frame": {"x":251,"y":1022,"w":262,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":34,"w":262,"h":264},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00026.png":
+{
+	"frame": {"x":513,"y":1022,"w":260,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":34,"w":260,"h":252},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00027.png":
+{
+	"frame": {"x":773,"y":1022,"w":262,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":28,"w":262,"h":254},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00028.png":
+{
+	"frame": {"x":1035,"y":1022,"w":261,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":30,"w":261,"h":264},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_rip_headstone_00029.png":
+{
+	"frame": {"x":1296,"y":1022,"w":254,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":39,"w":254,"h":241},
+	"sourceSize": {"w":300,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wild_rip_headstone.png",
+	"format": "RGBA8888",
+	"size": {"w":1620,"h":1286},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2277b6a33ed1cb688f185db2bd25fca6:5941deedef1edd3a910cb116f2126fc6:05a134986f9c7d9d56eb97d9aebd151a$"
+}
+}

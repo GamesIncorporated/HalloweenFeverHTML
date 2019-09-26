@@ -1,0 +1,84 @@
+{"frames": {
+
+"left_hand_smoke_00013.png":
+{
+	"frame": {"x":0,"y":0,"w":962,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":136,"w":962,"h":420},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00014.png":
+{
+	"frame": {"x":962,"y":0,"w":967,"h":447},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":110,"w":967,"h":447},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00015.png":
+{
+	"frame": {"x":0,"y":447,"w":967,"h":468},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":89,"w":967,"h":468},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00016.png":
+{
+	"frame": {"x":967,"y":447,"w":968,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":70,"w":968,"h":486},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00017.png":
+{
+	"frame": {"x":0,"y":933,"w":967,"h":509},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":48,"w":967,"h":509},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00018.png":
+{
+	"frame": {"x":967,"y":933,"w":967,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":34,"w":967,"h":523},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00019.png":
+{
+	"frame": {"x":0,"y":1456,"w":967,"h":542},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":14,"w":967,"h":542},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"left_hand_smoke_00020.png":
+{
+	"frame": {"x":967,"y":1456,"w":966,"h":544},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":12,"w":966,"h":544},
+	"sourceSize": {"w":1036,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "left_hand_smoke-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1935,"h":2000},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:30731114e3dca7208ab9d25e0ae67b66:8074f030ebb41b54d8a98fa5ec65169f:b80d92ffca84c1f5a3af0d582f47f0a0$"
+}
+}
